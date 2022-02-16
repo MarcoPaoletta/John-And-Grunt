@@ -2,6 +2,8 @@
 * Primer videojuego utilizando Unity y C#
 * Mecanica basica de movimiento hacia atras, delante, salto, disparo y enemigo
 
+<img src=https://github.com/MarcoPaoletta/John-And-Grunt/blob/main/Gameplay.gif>
+
 ---
 
 # Descargar Unity, ejecutar el proyecto y utilizar Visual Studio
